@@ -1,2 +1,2 @@
 
-React-Passport-Redux-Example for User Authentication
+React + Passport + Redux + Mongodb -> for User Authentication
